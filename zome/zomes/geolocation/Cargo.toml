@@ -1,12 +1,12 @@
 [package]
 authors = ["guillem.cordoba@gmail.com"]
 edition = "2018"
-name = "hc_zome_todo_rename"
+name = "hc_zome_geolocation"
 version = "0.0.1"
 
 [lib]
 crate-type = ["cdylib", "rlib"]
-name = "hc_zome_todo_rename"
+name = "hc_zome_geolocation"
 
 [dependencies]
 derive_more = "0"
